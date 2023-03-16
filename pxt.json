@@ -1,5 +1,5 @@
 {
-    "name": "LED_bu_가변저항제어",
+    "name": "LED_bu_val_servo",
     "description": "",
     "dependencies": {
         "core": "*",
